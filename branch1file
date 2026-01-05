@@ -1,1 +1,11 @@
 This file is created in branch1
+This file is edited in branch2
+
+# taking user input
+a = input("First number: ")
+b = input("Second number: ")
+
+# converting input to float and adding
+res = float(a) + float(b)
+
+print(res)
